@@ -1,0 +1,11 @@
+---
+seed: 1234567890
+num_of_obs: 2000
+mean: 25
+mean_coef: 5
+std: 5
+std_coef: 0.75
+strata_shares: [0.1, 0.2, 0.3, 0.4]
+uplift: 0.02
+bootstrap_rounds: 10000
+alpha: 0.05
